@@ -1,0 +1,76 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Kaushan Script', cursive; 
+}
+
+.header_div{
+    background: white;
+    color: red;
+}
+
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background: aquamarine;
+    color: white;
+    margin-top: 15px;
+    padding: 10px;
+    border: 3px solid aquamarine;
+    height: 500px;
+    }
+
+.main_div label{
+    background: darkblue;
+    width: 310px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px deepskyblue;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 1em;
+    box-shadow: 5px 5px 18px deepskyblue;
+    border: 1px solid;
+    padding-top: 5px;
+}
+
+#camera{
+    border: 2px solid darkblue;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px deepskyblue;
+}
+
+
+#result{
+    border: 2px solid darkblue;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px deepskyblue;
+}
+
+.result_div{
+    background: aquamarine;
+    color: deepskyblue;
+    width: 700px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: 340px;
+    box-shadow: 5px 5px 18px deepskyblue; 
+}
+
+.result_div img{
+    width: 100px;
+    
+}
+
+.footer_div{
+    background: white;
+    color: red;
+    text-align: center;
+    font-size: 1em;
+    margin-top: 170px;
+}
